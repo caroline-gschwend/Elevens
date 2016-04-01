@@ -1,2 +1,2 @@
-# Elevens
-Elevens is the last Java lab in AP Computer Science using Java. All Activities have been finished including the optional Activities. 
+# Elevens Lab
+Elevens is the last Java lab in AP Computer Science A. All activities have been finished including the optional activities. Feel free to contact me with any questions concerning Elevens or my code. Have fun!
